@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Optima;
-  background-color: #FCF7FF;
+  background-color: #332de4;
 }
 
 .center {
@@ -23,14 +23,14 @@ header {
   left: 0;
   width: 100%;
   z-index: 1000;
-  background: #655560;
+  background: #332de4;
   padding: 2%;
   text-align: center;
 
 }
 
 .panel {
-  background-color: #655560;
+  background-color: #332de4;
   color: #FCF7FF;
 
   width: 100%;
@@ -50,7 +50,7 @@ header {
 
 footer {
   display: flex;
-  background-color: #655560;
+  background-color: #332de4;
   position: fixed;
   bottom: 0;
   left: 0;
@@ -167,7 +167,7 @@ h3 {
 /* Add a black background color to the top navigation */
 .topnav {
   overflow: hidden;
-  background-color: #655560;
+  background-color: #332de4;
 }
 
 /* Style the links inside the navigation bar */
@@ -212,7 +212,7 @@ h3 {
 .same-line {
   display: flex;
   justify-content: space-between;
-  background-color: #655560;
+  background-color: #332de4;
 
 }
 
